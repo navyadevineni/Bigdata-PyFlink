@@ -25,6 +25,7 @@ Introduction to PyFlink and its examples
 - PyFlink is simply a combination of Apache Flink with Python, or rather Flink on Python.
 
 ## Subtopics
+- [Navya Devineni](https://github.com/navyadevineni) - Worked on how to install [PyFlink](https://ci.apache.org/projects/flink/flink-docs-release-1.12/flinkDev/building.html#build-flink) and installed locally.
 - [Krishna Sumanth Koyyalamudi](https://github.com/Krishna-Koyyalamudi) - Average time gap between the Movie/TV Show Released year and the year it is added to Netflix
 - [Swaroopa Tirumalareddy](https://github.com/swaroopatirumalareddy) - At intial I would like perform operations that will give us the number of rows, memory usage, details about the columns and whether there are any null values, along with the type of data about my data set.
 - To really understand what is going on in the data, we will need to see a distribution.I would like to perform this operation using Histogram
