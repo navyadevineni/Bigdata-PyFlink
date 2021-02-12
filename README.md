@@ -27,3 +27,4 @@ Introduction to PyFlink and its examples
 ## Subtopics
 - [Krishna Sumanth Koyyalamudi](https://github.com/Krishna-Koyyalamudi) - Average time gap between the Movie/TV Show Released year and the year it is added to Netflix
 - [Swaroopa Tirumalareddy](https://github.com/swaroopatirumalareddy) - At intial I would like perform operations that will give us the number of rows, memory usage, details about the columns and whether there are any null values, along with the type of data about my data set.
+- To really understand what is going on in the data, we will need to see a distribution.I would like to perform this operation using Histogram
