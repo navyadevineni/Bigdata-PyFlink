@@ -12,4 +12,6 @@ Introduction to PyFlink and its examples
 
 <td align="center"><a href="https://github.com/Krishna-Koyyalamudi"><img src="https://avatars.githubusercontent.com/u/60024842?s=460&u=94ef0e3e7234e941e6b5b7e3f08a5388ab5cef6f&v=4" width="100px;" alt=""/><br /><sub><b>Krishna Sumanth</b></sub></a><br /></td>
 
+<td align="center"><a href="https://github.com/swaroopatirumalareddy"><img src="https://avatars.githubusercontent.com/u/60026979?s=400&u=6e0265503d7058525120ffe9609c70e751a633f0&v=4" width="100px;" alt=""/><br /><sub><b>Swaroopa Tirumalareddy</b></sub></a><br /></td>
+
 </table>
