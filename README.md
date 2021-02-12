@@ -30,3 +30,4 @@ Introduction to PyFlink and its examples
 - To really understand what is going on in the data, we will need to see a distribution.I would like to perform this operation using Histogram
 - [Vishal Reddy Vennavaram](https://github.com/Vishalreddy114) - I would like to perform various operations like "group by" the game released year and the number of games released by each publisher. 
 - [Sumana Reddy Reddybathula](https://github.com/sumana-reddy) - I would like to perform scatter matrix to look how potentially the data is related to each other.
+- [Navya Devineni](https://github.com/navyadevineni) - Worked on how to install [PyFlink](https://ci.apache.org/projects/flink/flink-docs-release-1.12/flinkDev/building.html#build-flink) and installed locally.
