@@ -31,3 +31,4 @@ Introduction to PyFlink and its examples
 - [Vishal Reddy Vennavaram](https://github.com/Vishalreddy114) - I would like to perform various operations like "group by" the game released year and the number of games released by each publisher. 
 - [Sumana Reddy Reddybathula](https://github.com/sumana-reddy) - I would like to perform scatter matrix to look how potentially the data is related to each other.
 - [Navya Devineni](https://github.com/navyadevineni) - Worked on how to install [PyFlink](https://ci.apache.org/projects/flink/flink-docs-release-1.12/flinkDev/building.html#build-flink) and installed locally.
+- corr() can be used to find the correlation between different columns of the dataset. When correlation is 1, value in one column is directly proportional or it is related to value in the another column in the same row.
