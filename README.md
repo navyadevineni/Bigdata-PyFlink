@@ -35,4 +35,4 @@ Introduction to PyFlink and its examples
 
 ## Vid grid video links (Individual)
 - Sumana: https://app.vidgrid.com/view/NImGtrKh8MAl
-- Navya: https://app.vidgrid.com/view/UYHPWS9848FD
+- Navya: https://app.vidgrid.com/view/l4nDyOWl3nKs
