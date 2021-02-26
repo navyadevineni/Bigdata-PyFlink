@@ -13,7 +13,7 @@ exec_env = ExecutionEnvironment.get_execution_environment()
 exec_env.set_parallelism(1)
 t_config = TableConfig()
 t_env = BatchTableEnvironment.create(exec_env, t_config)
-root = Path("netflix_time.csv").parent.resolve()
+root = Path("netflix_times.csv").parent.resolve()
 out_path = root / "output_flix.csv"
 
 try:
@@ -24,7 +24,7 @@ except:
 from pyflink.table.window import Tumble
 
 (
-    t_env.connect(FileSystem().path(str(root / "netflix_time.csv")))
+    t_env.connect(FileSystem().path(str(root / "netflix_times.csv")))
     .with_format(Csv())
     .with_schema(
         Schema().field("year_added", DataTypes.INT()).field("release_year", DataTypes.INT())
@@ -47,4 +47,4 @@ from pyflink.table.window import Tumble
     .insert_into("mySink")
 )
 
-t_env.execute("timegap2")
+t_env.execute("time_gap")
