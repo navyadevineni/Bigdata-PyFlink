@@ -44,7 +44,7 @@ For this project, I have taken data set from kaggle.com  which contains the info
 - python
 - Colaboratory(Google Colab)(Colab allows us to write and execute Python in your browser, with Zero configuration required, Free access to GPUs and it is easy to share).
 - A dataset to perform operations
-#### Steps:
+#### Process and Commands:
 - First we need to open colab in a web browser then select new notebook 
 - We need install Apache Flink using the following command
 - !pip install apache-flink
