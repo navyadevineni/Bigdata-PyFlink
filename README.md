@@ -36,6 +36,7 @@ Introduction to PyFlink and its examples
 - Sumana: https://app.vidgrid.com/view/NImGtrKh8MAl
 - Navya: https://app.vidgrid.com/view/l4nDyOWl3nKs
 - Ravichander: https://app.vidgrid.com/view/oj4nmGDLyEWk/?sr=XNg8J3
+- Krishna Sumanth: https://use.vg/I6aHGO
 ### Swaroopa Tirumalareddy
 
 For this project, I have taken data set from kaggle.com  which contains the information regarding netflix movies and Tv shows. My Contribution in this project is I have performed some operations on dataset to get the basic information about the data set like displaying feature names of the dataset, fetching the details like the number of rows, memory usage, details about the columns and whether there are any null values, along with the type of data and  counting the number of different values in a single column specified and so on.
