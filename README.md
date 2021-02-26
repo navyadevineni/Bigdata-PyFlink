@@ -31,8 +31,35 @@ Introduction to PyFlink and its examples
 - [Vishal Reddy Vennavaram](https://github.com/Vishalreddy114) - I would like to perform various operations like "group by" the game released year and the number of games released by each publisher. 
 - [Sumana Reddy Reddybathula](https://github.com/sumana-reddy) - I would like to perform scatter matrix to look how potentially the data is related to each other.
 - [Navya Devineni](https://github.com/navyadevineni) - Worked on how to install [PyFlink](https://ci.apache.org/projects/flink/flink-docs-release-1.12/flinkDev/building.html#build-flink) and installed locally.
-- corr() can be used to find the correlation between different columns of the dataset. When correlation is 1, value in one column is directly proportional or it is related to value in the another column in the same row.
+- 
 
 ## Vid grid video links (Individual)
 - Sumana: https://app.vidgrid.com/view/NImGtrKh8MAl
 - Navya: https://app.vidgrid.com/view/l4nDyOWl3nKs
+### Swaroopa Tirumalareddy
+
+For this project, I have taken data set from kaggle.com  which contains the information regarding netflix movies and Tv shows. My Contribution in this project is I have performed some operations on dataset to get the basic information about the data set like displaying feature names of the dataset, fetching the details like the number of rows, memory usage, details about the columns and whether there are any null values, along with the type of data and  counting the number of different values in a single column specified and so on.
+#### Prerequisites:
+- Apache Flink
+- python
+- Colaboratory(Google Colab)(Colab allows us to write and execute Python in your browser, with Zero configuration required, Free access to GPUs and it is easy to share).
+- A dataset to perform operations
+Steps:
+- First we need to open colab in a web browser then select new notebook
+- We need install Apache Flink using the following command
+- !pip install apache-flink
+- Once we get installing ApacheFlink, we need to import all neccesary libraies 
+- As per my operations, I have imported the following libraries 
+- from pyflink.table import StreamTableEnvironment, DataTypes, table_config
+- from pyflink.datastream import StreamExecutionEnvironment
+- import pandas as pd
+- from pandas.plotting import scatter_matrix
+- After importing all the required libraries, start writing your script and then run the code which will display your output
+### References:
+- https://en.wikipedia.org/wiki/Apache_Flink
+- https://colab.research.google.com/notebooks/intro.ipynb#recent=true
+- https://flink.apache.org/2020/04/09/pyflink-udf-support-flink.html
+- 
+
+
+
