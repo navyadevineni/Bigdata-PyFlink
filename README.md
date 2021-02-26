@@ -45,10 +45,14 @@ For this project, I have taken data set from kaggle.com  which contains the info
 - Colaboratory(Google Colab)(Colab allows us to write and execute Python in your browser, with Zero configuration required, Free access to GPUs and it is easy to share).
 - A dataset to perform operations
 #### Process and Commands:
-1 First we need to open colab in a web browser then select new notebook 
-2 We need install Apache Flink using the following command
+1 First we need to open colab in a web browser then select new notebook  
+
+2 We need install Apache Flink using the following command 
+
   - !pip install apache-flink
+  
 3 Once we get installing ApacheFlink, we need to import all neccesary libraies 
+
 4 As per my operations, I have imported the following libraries 
 
    - from pyflink.table import StreamTableEnvironment, DataTypes, table_config 
@@ -60,6 +64,7 @@ For this project, I have taken data set from kaggle.com  which contains the info
    - from pandas.plotting import scatter_matrix
 
 5 After importing all the required libraries, upload your dataset into colab and start working on your project
+
 ### References:
 - https://en.wikipedia.org/wiki/Apache_Flink
 - https://colab.research.google.com/notebooks/intro.ipynb#recent=true
