@@ -71,6 +71,7 @@ For this project, I have taken data set from kaggle.com  which contains the info
 - https://en.wikipedia.org/wiki/Apache_Flink
 - https://colab.research.google.com/notebooks/intro.ipynb#recent=true
 - https://flink.apache.org/2020/04/09/pyflink-udf-support-flink.html
+- https://stackoverflow.com/questions/63367299/how-can-you-load-a-csv-into-pyflink-as-a-streaming-table-source
  
 
 
