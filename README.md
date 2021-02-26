@@ -31,7 +31,6 @@ Introduction to PyFlink and its examples
 - [Vishal Reddy Vennavaram](https://github.com/Vishalreddy114) - I would like to perform various operations like word count on the csv file to by using pyflink.
 - [Sumana Reddy Reddybathula](https://github.com/sumana-reddy) - I would like to perform scatter matrix to look how potentially the data is related to each other.
 - [Navya Devineni](https://github.com/navyadevineni) - Worked on how to install [PyFlink](https://ci.apache.org/projects/flink/flink-docs-release-1.12/flinkDev/building.html#build-flink) and installed locally.
-- 
 
 ## Vid grid video links (Individual)
 - Sumana: https://app.vidgrid.com/view/NImGtrKh8MAl
