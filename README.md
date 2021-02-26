@@ -50,10 +50,15 @@ For this project, I have taken data set from kaggle.com  which contains the info
 - !pip install apache-flink
 - Once we get installing ApacheFlink, we need to import all neccesary libraies 
 - As per my operations, I have imported the following libraries 
-* from pyflink.table import StreamTableEnvironment, DataTypes, table_config
-* from pyflink.datastream import StreamExecutionEnvironment
-* import pandas as pd
-* from pandas.plotting import scatter_matrix
+
+1 from pyflink.table import StreamTableEnvironment, DataTypes, table_config 
+
+2 from pyflink.datastream import StreamExecutionEnvironment
+
+3 import pandas as pd
+
+4 from pandas.plotting import scatter_matrix
+
 - After importing all the required libraries, upload your dataset into colab and start working on your project
 ### References:
 - https://en.wikipedia.org/wiki/Apache_Flink
